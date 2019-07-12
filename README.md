@@ -16,7 +16,7 @@ This guide is for two use cases:
 <pre>
 ├── README.md
 └── projects
-    └── [name-of-the-project]-[date]
+    └── [name-of-the-project]_[date]
         ├── README.md
         └── contributions.md
 </pre>
