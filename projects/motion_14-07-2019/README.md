@@ -5,7 +5,6 @@
 <h3 align="center">
   An open source and production-ready motion<br>library for React on the web.
 </h3>
-
 <br>
 
 <p align="center">
@@ -24,6 +23,8 @@
 </p>
 
 <br>
+
+[Go to repository](https://github.com/framer/motion)
 
 Motion is an open source, production-ready library that's designed for all creative developers.
 
