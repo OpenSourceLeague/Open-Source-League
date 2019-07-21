@@ -14,7 +14,7 @@ The Open Source League was created on Friday, July 12, 2019 to motivate anyone t
 <pre>
 ├── README.md
 └── projects
-    └── [name-of-the-project]_[date]
+    └── [date]_[name-of-the-project]
         ├── README.md
         └── contributions.md
 </pre>
